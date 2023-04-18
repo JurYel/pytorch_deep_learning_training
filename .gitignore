@@ -1,0 +1,6 @@
+# remove all cached files
+__pycache__
+*.pyc
+
+# remove ipython notebook checkpoints
+.ipynb_checkpoints
